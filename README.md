@@ -1,3 +1,7 @@
+
+# Template Usage Wiki 
+[https://github.com/selefra/selefra-provider-template/wiki](https://github.com/selefra/selefra-provider-template/wiki)
+
 # Selefra Provider REPLACE-ME-TO-YOUR-PROVIDER-NAME
 
 Use this repo as a raw reference to **tables and schema** for REPLACE-ME-TO-YOUR-PROVIDER-NAME resources. [Here's](https://github.com/selefra/selefra-provider-REPLACE-ME-TO-YOUR-PROVIDER-NAME/blob/main/docs/tables/REPLACE-ME-TO-YOUR-PROVIDER-NAME.md) a summary of full coverage.
